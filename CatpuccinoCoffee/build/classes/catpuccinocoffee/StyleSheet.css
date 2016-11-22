@@ -1,0 +1,17 @@
+/**
+ * Style Sheet for the CatpuccinoCoffee program
+ */
+
+.root{
+    -fx-font-size: 13pt;
+    -fx-font-family: "Cambria";
+}
+.button{
+	-fx-background-color: #deb576;
+	-fx-font-size: 10.5pt;
+}
+
+.radio-button .dot {
+    -fx-background-radius: 1px;
+    -fx-padding: 5px;
+}
